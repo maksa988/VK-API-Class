@@ -1,6 +1,6 @@
 # VK API
 
-[![Build Status](https://travis-ci.org/maksa988/VK-API-Class.svg)](https://travis-ci.org/laravel/framework)
+[![Build Status](https://travis-ci.org/maksa988/VK-API-Class.svg)](https://travis-ci.org/maksa988/VK-API-Class)
 [![Total Downloads](https://poser.pugx.org/maksa988/vk/downloads)](https://packagist.org/packages/maksa988/vk)
 [![Latest Stable Version](https://poser.pugx.org/maksa988/vk/v/stable)](https://packagist.org/packages/maksa988/vk)
 [![Latest Unstable Version](https://poser.pugx.org/maksa988/vk/v/unstable)](https://packagist.org/packages/maksa988/vk)
