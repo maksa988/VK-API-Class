@@ -1,0 +1,29 @@
+{
+	"name": "maksa988/vk",
+	"description": "PHP class for working with VK API",
+	"version": "1.1.0",
+	"keywords": ["vkontakte", "vk", "api", "vk.com"],
+	"homepage": "https://github.com/maksa988/VK-API-Class",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Maxim Rebitskiy",
+			"email": "admin@maksa988.ru",
+			"homepage": "http://maksa988.su",
+			"role": "Developer"
+		}
+	],
+	"support": {
+		"issues": "https://github.com/maksa988/VK-API-Class/issues",
+		"source": "https://github.com/maksa988/VK-API-Class"
+	},
+	"autoload":{
+        "psr-0":{
+            "MAKSA":"src/"
+        }
+    }
+	"require": {
+		"php": ">=5.3.0"
+	},
+	"minimum-stability": "stable"
+}
