@@ -2,7 +2,7 @@
 	"name": "maksa988/vk",
 	"description": "PHP class for working with VK API",
 	"version": "1.1.0",
-	"keywords": ["vkontakte", "vk", "api", "vk.com"],
+	"keywords": ["vkontakte", "vk", "api", "vk.com", "vkapi"],
 	"homepage": "https://github.com/maksa988/VK-API-Class",
 	"license": "MIT",
 	"authors": [
